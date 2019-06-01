@@ -29,7 +29,7 @@ function MyTime(){
 
 function MyApp1(myStats){
    
-    //test123
+    //test123456
     const productComponent = ProductData.map(item => <Product key={item.id} myProduct={item} />);
 
     //const productComponent = myStats.map(function(myitem) {return (<Product key={myitem.id} myProduct={myitem} />)})
